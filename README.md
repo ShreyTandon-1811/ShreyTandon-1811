@@ -34,8 +34,15 @@ Tech Stack: Python, YOLOv5, OpenCV, PyGame, NumPy
 ### CampusBites  
 Campus Bites is an online food ordering platform tailored for college canteens. It streamlines the entire food ordering experience for students and canteen staff, eliminating the need to wait in long queues and manage manual payments. With Campus Bites, students can conveniently place and pay for their orders through the web or app, and simply pick up their food when it’s ready.
 
-### YatriSaarthi  
-YatriSaarthi is a comprehensive travel assistance platform designed to enhance the experience of both solo and group travelers. It connects users with verified local guides, helps book hotels, and offers curated recommendations for city-specific attractions, restaurants, and festivals — all in one place.
+🚀 CampusBites
+
+🍽️ CampusBites is a smart online food-ordering platform built specifically for college canteens. It streamlines the entire ordering workflow for students and canteen staff, reducing long queues and eliminating manual payment hassles.
+
+📱 Students can browse menus, place orders, and pay online through the web/app
+
+⚡ Orders are processed instantly, enabling quick pickup without waiting
+
+👨‍🍳 Helps canteen staff manage orders efficiently with real-time updates
 ---
 
 ## 📈 What I'm Up To
