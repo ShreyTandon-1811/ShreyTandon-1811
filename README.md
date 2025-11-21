@@ -22,7 +22,7 @@ I'm an engineering student passionate about building things for the web. I love 
 
 ## 🌟 Featured Projects
 
-🚦 Urban Pulse
+###🚦 Urban Pulse
 Tech Stack: Python, YOLOv5, OpenCV, PyGame, NumPy
 
 🤖 YOLO-powered vehicle detection for smart traffic management
@@ -31,10 +31,20 @@ Tech Stack: Python, YOLOv5, OpenCV, PyGame, NumPy
 
 📈 Dynamic signal adjustments driven by lane-specific traffic density
 
-### CampusBites  
-Campus Bites is an online food ordering platform tailored for college canteens. It streamlines the entire food ordering experience for students and canteen staff, eliminating the need to wait in long queues and manage manual payments. With Campus Bites, students can conveniently place and pay for their orders through the web or app, and simply pick up their food when it’s ready.
+###🌍 YatriSaarthi
 
-🚀 CampusBites
+🧭 YatriSaarthi is a travel assistance platform designed to elevate both solo and group travel experiences. It connects travelers with verified local guides, offers hotel booking support, and provides curated recommendations tailored to each city.
+
+🏨 Book verified hotels and stays
+
+🗺️ Connect with trusted local guides
+
+🍴 Discover top attractions, restaurants, festivals, and city experiences — all in one place
+
+📌 A seamless, all-in-one companion for smart and convenient travel
+
+
+###🚀 CampusBites
 
 🍽️ CampusBites is a smart online food-ordering platform built specifically for college canteens. It streamlines the entire ordering workflow for students and canteen staff, reducing long queues and eliminating manual payment hassles.
 
