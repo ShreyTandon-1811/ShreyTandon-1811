@@ -57,6 +57,10 @@ I'm an engineering student passionate about building things for the web. I love 
      👨‍🍳 Helps canteen staff manage orders efficiently with real-time updates
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShreyTandon-1811&show_icons=true&theme=default)
+
+
+
 ## 📈 What I'm Up To
 
 - Sharpening my DSA skills
