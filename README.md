@@ -22,6 +22,13 @@ I'm an engineering student passionate about building things for the web. I love 
 
 ## 🌟 Featured Projects
 
+🚦 Urban Pulse
+Tech Stack: Python, YOLOv5, OpenCV, PyGame, NumPy
+
+🤖 YOLO-powered vehicle detection for smart traffic management
+🌀 PyGame simulation of real-world intersection behavior
+📈 Dynamic signal adjustments driven by lane-specific traffic density
+
 ### CampusBites  
 Campus Bites is an online food ordering platform tailored for college canteens. It streamlines the entire food ordering experience for students and canteen staff, eliminating the need to wait in long queues and manage manual payments. With Campus Bites, students can conveniently place and pay for their orders through the web or app, and simply pick up their food when it’s ready.
 
