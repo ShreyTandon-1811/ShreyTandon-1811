@@ -60,6 +60,8 @@ I'm an engineering student passionate about building things for the web. I love 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShreyTandon-1811&show_icons=true&theme=default)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyTandon-1811&layout=compact)
+
 
 ## 📈 What I'm Up To
 
