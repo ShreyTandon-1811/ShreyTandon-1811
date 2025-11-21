@@ -26,7 +26,9 @@ I'm an engineering student passionate about building things for the web. I love 
 Tech Stack: Python, YOLOv5, OpenCV, PyGame, NumPy
 
 🤖 YOLO-powered vehicle detection for smart traffic management
+
 🌀 PyGame simulation of real-world intersection behavior
+
 📈 Dynamic signal adjustments driven by lane-specific traffic density
 
 ### CampusBites  
