@@ -14,9 +14,9 @@ I'm an engineering student passionate about building things for the web. I love 
 
 ## 🛠️ Skills
 
-- Full Stack Development (DJango + ReactJs)
 - Data Structures & Algorithms
 - Problem Solving
+- Full Stack Development (Learning)
 
 ---
 
